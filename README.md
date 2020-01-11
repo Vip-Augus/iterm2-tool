@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [iterm2-tool](#iterm2-tool)
+  - [rz、sz 上传下载](#rzsz-%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD)
+  - [使用脚本登录](#%E4%BD%BF%E7%94%A8%E8%84%9A%E6%9C%AC%E7%99%BB%E5%BD%95)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # iterm2-tool
 
 ## rz、sz 上传下载
@@ -122,5 +132,4 @@ $ chmod 777 /usr/local/bin/iterm2login.sh
 
 在右侧，有一行 「Shortcut Keys」，点击下拉选择，可以选一个自己喜欢，而且与其它软件不冲突的快捷键。
 
-例如我使用了 「⌘（command） + Shift + P」，这样可以快速的通过快捷键，直接就能进行登录~
-
+例如我使用了 「⌘（command） + Shift + P」，这样可以快速的通过快捷键，直接就能进行登录
