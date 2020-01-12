@@ -24,6 +24,12 @@ HomeBrew 是 mac 上一个很好用的包管理软件，如果没安装的话，
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+通过 brew 进行安装
+
+```shell
+$ brew install lrzsz
+```
+
 - **拷贝脚本文件**
 
 定位到 /usr/local/bin 目录
